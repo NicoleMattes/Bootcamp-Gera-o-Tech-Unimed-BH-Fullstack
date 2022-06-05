@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+.menu{
+    height: 100px;
+    width: 100vw;
+    background-color: rgb(66, 48, 134);
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.menu h1{
+    margin-left: 20px;
+}
+
+.menu-itens ul{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.menu-itens ul li a{
+    text-decoration: none;
+}
+
+.presentation{
+    display: block;
+    align-items: column;
+    padding-top: 20px;
+    justify-content: center;
+}
