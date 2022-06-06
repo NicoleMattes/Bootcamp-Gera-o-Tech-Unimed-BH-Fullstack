@@ -5,41 +5,264 @@
     text-decoration: none;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: darkblue;
     width: 100vw;
     height: 5rem;
 }
 
-.nav__container {
+.nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1080px;
+    min-width: 60rem;
 }
 
-.nav__container h1 {
+.nav-container h1 {
     color: white;
     text-transform: uppercase;
 }
 
-.menu__itens ul{
+.menu-itens ul{
     display: flex;
     align-items: center;
     list-style-type: none;
+    height: 100%;
 }
 
-.menu__itens ul li{
+.menu-itens ul li{
     text-decoration: none;
     margin-right: 3rem;
 }
 
-.menu__itens ul li a{
+.menu-itens ul li a{
     color: white;
-    height: 100%
+    height: 100%;
+    font-weight: 700;
 }
 
-.menu__itens ul li:hover{
-    background-color: rgb(0, 0, 59);
-    transition: 200ms;
+.body-container {
+    min-width: 60rem;
+}
+
+.more-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+.pres-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pres-text h1 {
+    font-size: 3.5rem;
+    color: darkblue;
+    margin-bottom: 2rem;
+}
+
+.pres-text p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.pres-img {
+    width: 32rem;
+}
+
+.pres-text a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    height: 2.5rem;
+    width: 8rem;
+    border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.pres-text a:hover{
+    background-color: rgb(3, 3, 182);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.about-us-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+.about-us-text {
+    max-width: 30rem;
+    margin-left: 5rem;
+}
+
+.about-us-text h2 {
+    padding-left: 1rem;
+    border-left: .5rem solid darkblue;
+    font-size: 2rem;
+    color: darkblue;
+    margin-bottom: 2rem;
+}
+
+.about-us-text p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.service-body-conatiner {
+    display: flex;
+    justify-content: center;
+    background-color: darkblue;
+    width: 100vw;
+}
+
+.service-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 60rem;
+}
+
+.service-title {
+    color: white;
+    text-transform: uppercase;
+    margin: 2rem 0 2rem 3.5rem;
+}
+
+.service-imgs {
+    display: flex;
+    justify-content: space-around;
+    width: 60rem;
+    color: white;
+    font-weight: bold;
+}
+
+.img-info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-info-container p {
+    margin-top: 1rem;
+    font-size:  1.2rem;
+}
+
+.img-info-container a {
+    margin: 1rem 0 3rem;
+    color: darkblue;
+    text-decoration: none;
+    background-color: white;
+    padding: .5rem 2rem;
+    border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.img-info-container a:hover {
+    background-color: lightgrey;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.plan-container {
+    margin: 3rem 0;
+}
+
+.plan-title {
+    color: darkblue;
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+}
+
+.plan-cards {
+    display: flex;
+    align-content: end;
+    justify-content: space-around;
+    width: 60rem;
+}
+
+.plan-card {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: flex-end;
+    border: .5rem solid darkblue;
+    border-radius: 1rem;
+    padding: 2.5rem;
+    height: 100%;
+    margin-top: auto;
+}
+
+.plan-card h3 {
+    color: darkblue;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: .3rem solid darkblue;
+}
+
+.plan-card ul {
+    margin-bottom: 2rem;
+}
+
+.plan-card a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    height: 2.5rem;
+    width: 8rem;
+    margin: auto;
+    border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.plan-card a:hover {
+    background-color: rgb(3, 3, 182);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: darkblue;
+    width: 100vw;
+    height: 3rem;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 60rem;
+    color: white;
+}
+
+.footer-container p{
+    margin: auto 0;
 }
