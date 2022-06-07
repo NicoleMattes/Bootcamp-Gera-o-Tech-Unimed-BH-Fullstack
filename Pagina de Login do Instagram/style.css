@@ -9,4 +9,25 @@
 
 body {
     width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    display: flex;
+    justify-content: center;
 }
+
+.instagram__wrapper {
+    Display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100vh;
+}
+
+.instagram__photo {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 50%;
+}
+
