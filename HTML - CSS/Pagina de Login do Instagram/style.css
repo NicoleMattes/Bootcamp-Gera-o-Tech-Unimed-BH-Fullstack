@@ -138,8 +138,23 @@ a {
 
 @media (max-width: 1024px) {
     .instagram__wrapper {
-        width: 90%;
+        width: 90rem;
+    }
+    .instagram__phone {
+        width: 40rem;
     }   
+    .group {
+        width: 30rem;
+    }
+    .get__the__app {
+        width: 30rem;
+        flex-direction: column;
+        align-items: center;
+    }
+    .store__img {
+        width: 12rem;
+        align-items: space-around;
+    }
 }
 
 @media (max-width: 650px) {
