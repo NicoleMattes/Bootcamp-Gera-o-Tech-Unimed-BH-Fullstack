@@ -8,19 +8,32 @@
 }
 
 body {
-    width: 100%;
+    width: 100vw;
     min-height: 100vh;
     background-color: rgb(243, 243, 243);
     margin: 0;
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+span {
+    font-size: 1.2rem
+}
+
+a {
+    font-size: 1.2rem;
 }
 
 .instagram__wrapper {
     Display: flex;
-    align-items: center;
-    justify-content: start;
-    width: 75%;
+    flex-direction: column;
+    align-items: space-around;
+    justify-content: center;
     height: 90vh;
 }
 
@@ -29,7 +42,10 @@ body {
     align-items: center;
     justify-content:center;
     width: 50%;
- 
+}
+
+.instagram__phone {
+    margin: auto 0;
 }
 
 .instagram__phone img {
@@ -38,10 +54,9 @@ body {
 
 .instagram__continue {
     display: flex;
-     align-items: center; /* horizontal */
+    align-items: center; /* horizontal */
     justify-content: space-around; /* Vertical */
     flex-direction: column;
-    width: 50%;
     min-width: 34rem;
 }
 
@@ -52,7 +67,7 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
-
+    margin: 1rem 0;
 }
 
 .group {
@@ -61,9 +76,10 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #ffffffff;
-    width: 100%;
+    width: 45rem;
     padding: 1.4rem 0;
     border: 1px solid lightgray;
+    margin: 1rem 0;
 }
 
 .group:nth-child(1){
@@ -77,17 +93,42 @@ body {
 .instagram__login {
     background-color: #0095f6;
     color: white;
-    padding: 8px;
-    border-radius: 4px;
+    padding: .7rem 1rem;
+    border-radius: .4rem;
+    margin-bottom: 1rem;
 }
 
-.group2 {
+.instagram__lougout {
+    color: #0095f6;
+    font-weight: 300;
+    margin-top: 1rem;
+}
+
+.link__blue {
+    color: #0095f6;
+    font-weight: bold;
+}
+
+.get__the__app {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
     flex-direction: column;
-    background-color: #ffffffff;
-    width: 100%;
-    padding: 1.4rem 0;
-    border: 1px solid lightgray;
+    align-content: center;
+    justify-content: center;
+    width: 45rem;
+    margin-top: 1rem;
+}
+
+.get__app {
+    font-weight: bold;
+    text-align: center;
+}
+
+.store__img {
+    width: 15rem;
+}
+
+.download {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around
 }
