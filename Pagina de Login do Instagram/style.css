@@ -161,7 +161,8 @@ a {
     }
     .get__the__app {
         flex-direction: column;
-        align-items: left;
+        align-items: center;
+        width: 25rem;
     }
     .get__app{
         flex-direction: column;
