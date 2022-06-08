@@ -130,18 +130,19 @@ a {
 .download {
     margin-top: 1rem;
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    
 }
 
 /* Media queries */
 
-@media (max-whidth: 1024px) {
+@media (max-width: 1024px) {
     .instagram__wrapper {
         width: 90%;
     }   
 }
 
-@media (max-whidth: 650px) {
+@media (max-width: 650px) {
     .instagram__wrapper {
         width: 90%;
     }
@@ -150,5 +151,20 @@ a {
     }
     .instagram__continue {
         width: 90%;
+    }
+    .download{
+        flex-direction: column;        
+    }
+    .group{
+        width: 25rem;
+
+    }
+    .get__the__app {
+        flex-direction: column;
+        align-items: left;
+    }
+    .get__app{
+        flex-direction: column;
+        align-items: center;
     }
 }
