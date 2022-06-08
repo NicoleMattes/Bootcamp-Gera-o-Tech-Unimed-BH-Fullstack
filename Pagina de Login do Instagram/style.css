@@ -49,7 +49,7 @@ a {
 }
 
 .instagram__phone img {
-    height: 50rem;
+    height: 55rem;
 }
 
 .instagram__continue {
@@ -131,4 +131,24 @@ a {
     margin-top: 1rem;
     display: flex;
     justify-content: space-around
+}
+
+/* Media queries */
+
+@media (max-whidth: 1024px) {
+    .instagram__wrapper {
+        width: 90%;
+    }   
+}
+
+@media (max-whidth: 650px) {
+    .instagram__wrapper {
+        width: 90%;
+    }
+    .instagram__phone {
+        display: none;
+    }
+    .instagram__continue {
+        width: 90%;
+    }
 }
