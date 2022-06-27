@@ -22,6 +22,14 @@ body {
 
 body h1 {
     font-size: 40px;
+    color: white;
+}
+
+
+body h1:hover {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
 }
 
 #button {
@@ -78,6 +86,12 @@ body h1 {
     border-radius: 10px;
     border: 3px solid  #4568dc;
     animation: backgroundTransition 12s ease-in-out infinite;
+  }
+
+  .tasks {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
   }
 
 
