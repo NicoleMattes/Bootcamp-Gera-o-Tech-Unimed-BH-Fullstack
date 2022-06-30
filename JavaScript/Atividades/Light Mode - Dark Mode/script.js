@@ -1,5 +1,6 @@
 function changeMode() {
     changeClasses();
+    changeText();
 }
 
 // função para adicionar/tirar classe dark-mode. 
