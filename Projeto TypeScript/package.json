@@ -5,7 +5,9 @@
   "main": "c",
   "scripts": {
     "test": "c",
-    "start": "lite-server"
+    "start": "lite-server",
+    "watch": "tsc --watch"
+
   },
   "repository": {
     "type": "git",
