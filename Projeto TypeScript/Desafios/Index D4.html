@@ -4,21 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="Desafio4.ts" defer></script>
-    <title>Document</title>
+    <script src="Desafio4.js" defer></script>
+    <title>My super Movie List!!!!</title>
 </head>
 <body>
     <div style="display: flex;">
-        <div style="display: flex; width: 300px; height: 100px; justify-content: space-between; flex-direction: column;">
-            <input id="login" placeholder="Login" onchange="preencherLogin(event)">
-            <input id="senha" placeholder="Senha" type="password" onchange="preencherSenha(event)">
-            <input id="api-key" placeholder="Api Key" onchange="preencherApi()">
-            <button id="login-button" disabled>Login</button>
+        <div id="user-space">
+            <div id="login-form" style="display: flex; width: 300px; height: 100px; justify-content: space-between; flex-direction: column;">
+                <input id="login" placeholder="Login" onchange="preencherLogin(event)">
+                <input id="senha" placeholder="Senha" type="password" onchange="preencherSenha(event)">
+                <input id="api-key" placeholder="Api Key" onchange="preencherApi()">
+                <button id="login-button" (click)="login()">Login</button>
+            </div>
+            <div id="is-logged"></div>
+            <div id="list-form"></div>
+            <div id="movie-list"></div>
+            <div id="save-list"></div>
         </div>
         <div id="search-container" style="margin-left: 20px">
-            <input id="search" placeholder="Escreva...">
-            <button id="search-button">Pesquisar Filme</button>
+            <h2>Pesquise seu filme</h2>
+            <input id="search" placeholder="Nome do Filme">
+            <button id="search-button" disabled>Pesquisar Filme</button>
         </div>
-      </div>*/}
+      </div>
 </body>
 </html>
