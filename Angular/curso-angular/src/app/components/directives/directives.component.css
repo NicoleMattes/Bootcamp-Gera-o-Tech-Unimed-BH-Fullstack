@@ -1,0 +1,13 @@
+.small-tiltle {
+  font-size: 12px;
+}
+
+.green-title {
+  color: darkgreen;
+}
+
+.underline-title{
+  text-decoration: underline;
+  color: rgb(255, 0, 255);
+  font-size: 16px;
+}

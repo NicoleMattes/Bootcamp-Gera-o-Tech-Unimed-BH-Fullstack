@@ -8,3 +8,14 @@
 a{
   color: orange;
 }
+
+
+body {
+  padding-bottom: 500px;
+}
+
+.class {
+  border-bottom: 1px solid rgb(122, 0, 102);
+  padding: 2em;
+  margin-bottom: 1em;
+}
