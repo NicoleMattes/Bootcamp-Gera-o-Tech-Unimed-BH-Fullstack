@@ -1,11 +1,11 @@
-<div class="card shadow-sm" style="padding: 1rem;">
+<div class="card shadow-sm" style="padding: 2rem; margin: 1rem;">
   <img src="{{ book.img }}" class="bf-placeholder-img card-img-top">
   <div class="card-body">
     <h4 class="card-text">{{ book.name }}</h4>
     <h5 class="card-text">{{ book.category }}</h5>
     <h5 class="card-text">{{ book.price | currency:'BRL' }}</h5>
     <p class="card-text">{{ book.quantity }}</p>
-    <div class="btn-group">
+    <div class="buttons">
       <button class="btn btn-primary">Detalhes</button>
       <button class="btn btn-success">Comprar</button>
     </div>
