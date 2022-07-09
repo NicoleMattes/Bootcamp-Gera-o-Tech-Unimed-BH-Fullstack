@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "name": "Percy Jackson: O Ladrão de raios",
+      "price": 33.99,
+      "quantity": 5,
+      "category": "Aventura",
+      "img": "https://m.media-amazon.com/images/I/619aw8BhHCL._AC_UY218_.jpg"
+    },{
+      "id": 1,
+      "name": "Percy Jackson: Mar de Monstros",
+      "price": 33.28,
+      "quantity": 5,
+      "category": "Aventura",
+      "img": "https://m.media-amazon.com/images/I/61oIE7mD1FL._AC_UY218_.jpg"
+    },{
+      "id": 2,
+      "name": "Percy Jackson: A Maldição do Titã",
+      "price": 20.00,
+      "quantity": 5,
+      "category": "Aventura",
+      "img": "https://m.media-amazon.com/images/I/61JZbH4iXIL._AC_UY218_.jpg"
+    },{
+      "id": 3,
+      "name": "Percy Jackson: A Batalha do Labirinto",
+      "price": 43.92,
+      "quantity": 5,
+      "category": "Aventura",
+      "img": "https://m.media-amazon.com/images/I/61+ZCmCOjnL._AC_UY218_.jpg"
+    },{
+      "id": 4,
+      "name": "Percy Jackson: O último Olimpiano",
+      "price": 33.99,
+      "quantity": 5,
+      "category": "Aventura",
+      "img": "https://m.media-amazon.com/images/I/61uKNWL52zL._AC_UY218_.jpg"
+    }
+  ]
+}
