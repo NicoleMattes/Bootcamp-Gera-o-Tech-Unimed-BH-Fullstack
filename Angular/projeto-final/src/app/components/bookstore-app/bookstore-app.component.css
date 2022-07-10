@@ -1,0 +1,12 @@
+.body-container {
+  display: flex;
+}
+
+.left {
+  display: flex;
+}
+.right {
+  display: flex;
+  max-width: 50rem;
+  margin-left: 3rem
+}

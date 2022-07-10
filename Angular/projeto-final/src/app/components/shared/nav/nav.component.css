@@ -1,0 +1,7 @@
+.nav-bar-container {
+  display:flex;
+  justify-content: space-between;
+  padding: 1rem;
+  max-width: 60rem;
+  margin: 0 auto;
+}
