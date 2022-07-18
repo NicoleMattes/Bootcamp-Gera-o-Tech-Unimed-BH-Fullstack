@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\dio\\DIO.csproj": {}
+    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\DIO\\DIO.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\dio\\DIO.csproj": {
+    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\DIO\\DIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\dio\\DIO.csproj",
+        "projectUniqueName": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\DIO\\DIO.csproj",
         "projectName": "DIO",
-        "projectPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\dio\\DIO.csproj",
+        "projectPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\DIO\\DIO.csproj",
         "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\dio\\obj\\",
+        "outputPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net\\DIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config"
