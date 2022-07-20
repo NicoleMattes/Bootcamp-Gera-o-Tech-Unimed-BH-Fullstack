@@ -1,0 +1,15 @@
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.AssemblyReference.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfoInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfo.cs
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\bin\Debug\net6.0\ExemploPoo.exe
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\bin\Debug\net6.0\ExemploPoo.deps.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\bin\Debug\net6.0\ExemploPoo.runtimeconfig.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\bin\Debug\net6.0\ExemploPoo.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\bin\Debug\net6.0\ExemploPoo.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\refint\ExemploPoo.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ExemploPoo.genruntimeconfig.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Orientação a objetos\ExemploPoo\obj\Debug\net6.0\ref\ExemploPoo.dll

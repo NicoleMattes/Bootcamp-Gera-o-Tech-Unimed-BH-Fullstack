@@ -13,3 +13,18 @@ D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcam
 D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net\dio\obj\Debug\net6.0\DIO.pdb
 D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net\dio\obj\Debug\net6.0\DIO.genruntimeconfig.cache
 D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net\dio\obj\Debug\net6.0\ref\DIO.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\bin\Debug\net6.0\DIO.exe
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\bin\Debug\net6.0\DIO.deps.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\bin\Debug\net6.0\DIO.runtimeconfig.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\bin\Debug\net6.0\DIO.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\bin\Debug\net6.0\DIO.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.csproj.AssemblyReference.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.AssemblyInfoInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.AssemblyInfo.cs
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\refint\DIO.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\DIO.genruntimeconfig.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\.Net C#\Coleções\obj\Debug\net6.0\ref\DIO.dll

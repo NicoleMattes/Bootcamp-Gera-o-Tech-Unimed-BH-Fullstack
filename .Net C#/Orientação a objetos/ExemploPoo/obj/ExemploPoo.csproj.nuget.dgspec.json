@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Coleções\\DIO.csproj": {}
+    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Orientação a objetos\\ExemploPoo\\ExemploPoo.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Coleções\\DIO.csproj": {
+    "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Orientação a objetos\\ExemploPoo\\ExemploPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Coleções\\DIO.csproj",
-        "projectName": "DIO",
-        "projectPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Coleções\\DIO.csproj",
+        "projectUniqueName": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Orientação a objetos\\ExemploPoo\\ExemploPoo.csproj",
+        "projectName": "ExemploPoo",
+        "projectPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Orientação a objetos\\ExemploPoo\\ExemploPoo.csproj",
         "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Coleções\\obj\\",
+        "outputPath": "D:\\Documentos\\Programação\\Bootcamp Geração Tech Unimed-BH  Fullstack\\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\\.Net C#\\Orientação a objetos\\ExemploPoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config",
