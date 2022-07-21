@@ -2,7 +2,6 @@ using System.Diagnostics;
 
 namespace App_Series
 {
-    [DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
     public class Serie : EntidadeBase
     {
 
@@ -12,14 +11,26 @@ namespace App_Series
         private string Descricao { get; set; }
         private int Ano { get; set; }
 
+        private bool Excluido { get; set; }
+
         // Metodos
-        public Serie(int id, Genero genero, string titulo, string descricao)
+        public Serie(int id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = id;
             this.Genero = genero;
             this.Titulo = titulo;
             this.Descricao = descricao;
             this.Ano = Ano;
+            this.Excluido = false;
+        }
+
+        internal void Add(Serie entidade)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Serie()
+        {
         }
 
         public override string ToString()
@@ -32,6 +43,26 @@ namespace App_Series
             return retorno;
 
         }
+        public string retornaTitulo()
+        {
+            return this.Titulo;
+        }
+
+        public int retornaId()
+		{
+			return this.Id;
+		}
+
+        public void Exclui() 
+        {
+            this.Excluido = true;
+        }
+
+        public bool retornaExcluido()
+		{
+			return this.Excluido;
+		}
+
     }
 
 }

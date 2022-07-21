@@ -1,0 +1,15 @@
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\bin\Debug\net6.0\App Series.exe
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\bin\Debug\net6.0\App Series.deps.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\bin\Debug\net6.0\App Series.runtimeconfig.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\bin\Debug\net6.0\App Series.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\bin\Debug\net6.0\App Series.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.csproj.AssemblyReference.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.AssemblyInfoInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.AssemblyInfo.cs
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\refint\App Series.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\App Series.genruntimeconfig.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\App Series\obj\Debug\net6.0\ref\App Series.dll
