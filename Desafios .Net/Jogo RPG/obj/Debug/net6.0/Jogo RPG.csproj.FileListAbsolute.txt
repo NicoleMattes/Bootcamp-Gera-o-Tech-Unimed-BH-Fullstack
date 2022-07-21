@@ -1,0 +1,15 @@
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\bin\Debug\net6.0\Jogo RPG.exe
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\bin\Debug\net6.0\Jogo RPG.deps.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\bin\Debug\net6.0\Jogo RPG.runtimeconfig.json
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\bin\Debug\net6.0\Jogo RPG.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\bin\Debug\net6.0\Jogo RPG.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.csproj.AssemblyReference.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.AssemblyInfoInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.AssemblyInfo.cs
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\refint\Jogo RPG.dll
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.pdb
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\Jogo RPG.genruntimeconfig.cache
+D:\Documentos\Programação\Bootcamp Geração Tech Unimed-BH  Fullstack\Bootcamp-Gera-o-Tech-Unimed-BH-Fullstack\Desafios .Net\Jogo RPG\obj\Debug\net6.0\ref\Jogo RPG.dll
